@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Hierarchical Loss for Bi-Level Classification of Speech into Language and Dialects"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'The task of dialect identification (DID) is challenging due to high inter-class similarity. This becomes further complicated when we consider DID in a multilingual setup. This is because there will now be confusion between the dialects of closely related languages also. To solve this, we propose hierarchical classification. We propose a novel hierarchical classification loss to make use of the parent label.'
 date: 2009-10-01
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
