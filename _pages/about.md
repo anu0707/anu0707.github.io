@@ -12,6 +12,3 @@ I am a final year MTech (By Research) student in Intelligent Systems at the Scho
 My current research work revolved around using various deep learning based approaches for speech processing, but my passion for research pushes me to diversify my domain. The constant urge to challenge myself and learn new things drives me to do meaningful work helping society in general.
 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
