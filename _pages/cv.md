@@ -11,26 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MTech (By Research) in Intelligent Systems (Computer Science), School of Computing and Electrical Engineering, IIT Mandi, India, 2025 (Expected)
+* B.E. in Information Technology, UIET Chandigarh, Panjab University, India, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Project Associate-I, IIT Mandi: National Language Translation Mission (NLTM): BHASHINI
+  * Worked on "Spoken dialect identification for Indian languages" by using pre-trained models such as wav2vec 2.0 along with the state-of-the-art TDNN,BLSTM, Transformer to obtain utterance-level representation that captures dialect-specific information.
+  * Proposed hierarchical classification to solve the 
+  * Supervisor: Dr. Dileep A.D., Co-supervisor: Dr. Padmanabhan Rajan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023: Teaching Assistant, Pattern Recognition
+  * IIT Mandi
+  * Supervisor: Dr. Dileep A.D.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2022: Teaching Assistant, Data Structures and Algorithms
+  * IIT Mandi
+  * Supervisor: Dr. Dileep A.D.
+
+* Data Scientist Pukaar.ai
+  * Pukaar.ai is a startup working on making products that make baby care simple.
+  * Worked on building models that could classify the cries based on the reason of the cry. Built the models for emotional cry as well as pathological cry.
+  * Currently working on building conversational AI.
+
   
 Skills
 ======
