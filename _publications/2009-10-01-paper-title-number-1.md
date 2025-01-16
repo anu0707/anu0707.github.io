@@ -1,7 +1,7 @@
 ---
 title: "Hierarchical Loss for Bi-Level Classification of Speech into Language and Dialects"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'The task of dialect identification (DID) is challenging due to high inter-class similarity. This becomes further complicated when we consider DID in a multilingual setup. This is because there will now be confusion between the dialects of closely related languages also. To solve this, we propose hierarchical classification. We propose a novel hierarchical classification loss to make use of the parent label.'
 date: 2025-04-06
