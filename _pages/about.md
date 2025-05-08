@@ -11,4 +11,9 @@ I am a final year MTech (By Research) student in Intelligent Systems at the Scho
 
 My current research work revolved around using various deep learning based approaches for speech processing, but my passion for research pushes me to diversify my domain. The constant urge to challenge myself and learn new things drives me to do meaningful work helping society in general.
 
+NEWS
+
+**April 2025**        Poster presentation at ICASSP
+
+
 
